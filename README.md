@@ -2,7 +2,7 @@
 
 This is my presentation for Deep Learning and Generative Models course at @UniPr.
 This repo contains the presentation for the paper [InDomain GAN inversion for real image editing](https://arxiv.org/abs/2004.00049)
-You can find a pdf and also a power point presentation
+You can find the paper's implementation here [IDInvert](https://github.com/genforce/idinvert)
 ## Authors
 
 * **Filippo Botti** 
